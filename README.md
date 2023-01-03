@@ -26,15 +26,19 @@ Basic GamePlay Operations:
 
 ### Gameplay Results (via Terminal)
 ![input_image](images/playablePositions_terminal.png)
+
 _**Figure 1:** Displaying playable positions on game board_
 
 ![input_image](images/resultTie_terminal.png)
+
 _**Figure 2:** Result after single match and tie condition_
 
 ![input_image](images/invalidPosition_terminal.png)
+
 _**Figure 3:** Player enters invalid position, occupied or out of bounds_
 
 ![input_image](images/resultWinHarjot_terminal.png)
+
 _**Figure 4:** Result after two matches and player win condition_
 
 ### Execution Procedure
